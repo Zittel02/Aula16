@@ -1,0 +1,60 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    border-style:solid;
+    border-width: 5px;
+    border-color: rgb(37, 88, 11);
+    border-style: solid;
+    padding:20px 20px;
+
+}
+h1{
+    border-color: rgb(37, 88, 11);
+    background-color: rgb(225, 243, 213);
+    color: rgb(0, 0, 0);
+}
+h3  {
+    background-color: rgb(236, 255, 224);
+    color: rgb(2, 89, 53);
+}
+div{
+    border: solid;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 10px;
+}
+.imagem{
+    background-color: rgb(237, 253, 227);
+    border-color: rgb(237, 253, 227);
+    text-align: center;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+}
+.notest{
+
+    margin-left: 1px;
+    border-width: 3px;
+    border-color: rgb(6, 47, 1);    
+    border-style: solid;
+    padding:1px 1px;
+}
+.center{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(227, 246, 214);
+    color: rgb(0, 0, 0);
+    margin-left: 1px;
+    border-width: 3px;
+    border-color: rgb(6, 47, 1);
+    border-style: solid;
+    padding:1x 1px;
+}
+.site{
+    text-align: center;
+    background-color: rgb(245, 255, 245);
+    border-color:  rgb(245, 255, 245);
+
+}
+.dd{
+    background-color:  rgb(231, 253, 231);
+    text-align: center;
+    border-color:  rgb(231, 253, 231);
+}
